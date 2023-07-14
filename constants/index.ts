@@ -1,4 +1,5 @@
 // links for the categories and the navbar
+// The structure of this page is important so that if non-dev individuals want to browse the code, they can look through the constants instead of looking through the code, you can update this using CMS (content management system), and good for separation of concern!
 export const NavLinks = [
   { href: "/", key: "Inspiration", text: "Inspiration" },
   { href: "/", key: "Find Projects", text: "Find Projects" },
